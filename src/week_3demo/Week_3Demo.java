@@ -15,6 +15,7 @@ public class Week_3Demo {
      */
     public static void main(String[] args) {
         System.out.println("hi");
+        System.out.println("i am back home");
         // TODO code application logic here
     }
     
